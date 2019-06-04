@@ -2,7 +2,7 @@
 
 
 **Aluna**: Isabela Marina Ferreira Pires<br>
-**Matrícula**: $$2017014634$$<br>
+**Matrícula**: 2017014634<br>
 <br>
 <br>
 
