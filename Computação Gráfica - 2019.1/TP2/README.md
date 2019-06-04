@@ -1,8 +1,4 @@
 # Computação Gráfica - TP2: Ray Tracing
-
-
-**Aluna**: Isabela Marina Ferreira Pires<br>
-**Matrícula**: 2017014634<br>
 <br>
 <br>
 
